@@ -3,8 +3,6 @@ layout: default
 ---
 ![](https://github.com/strajanocc/blog2/blob/0a6eb12206034e075d9a70e9f9eca19f92623982/_includes/LogoStrajano200-e1527109920678.png)
 
-<img src="/_includes/LogoStrajano200-e1527109920678.png"
-     alt="Strajano"/>
 
 [Instagram](https://www.instagram.com/strajanokennel/). [email](strajano.cane.corso@gmail.com)
 
