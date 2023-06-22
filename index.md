@@ -15,7 +15,9 @@ Cane corso kennel Strajano was founded in 2002. and registered with Cynological 
 Rural setting and natural food make ideal conditions for ideal development and growth of our dogs. Thanks to these predispositions we successfully breed dogs of exceptional quality, way above average, which is confirmed by our show results.
 
 Kontaktirajte nas / Get in touch with us:
-**[Instagram](https://www.instagram.com/strajanokennel/)** **[Strajano.cane.corso@gmail.com](mailto:strajano.cane.corso@gmail.com)**
+
+- **[Instagram](https://www.instagram.com/strajanokennel/)**
+- **[Strajano.cane.corso@gmail.com](mailto:strajano.cane.corso@gmail.com)**
 
 * * *
 
