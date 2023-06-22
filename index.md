@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-!(_includes/LogoStrajano200-e1527109920678.png)
+![](_includes/LogoStrajano200-e1527109920678.png)
 
 [Instagram](https://www.instagram.com/strajanokennel/). [email](strajano.cane.corso@gmail.com)
 
