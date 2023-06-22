@@ -3,7 +3,7 @@ layout: default
 ---
 ![](_includes/LogoStrajano200-e1527109920678.png)
 
-<img src="_includes/LogoStrajano200-e1527109920678.png"
+<img src="/_includes/LogoStrajano200-e1527109920678.png"
      alt="Strajano"
      style="float: center; margin-right: 10px;" />
      
